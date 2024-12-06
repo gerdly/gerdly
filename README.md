@@ -6,6 +6,8 @@
 🔭 I’m currently working on exciting projects involving:  
 - 🌐 Web development  
 - ☁️ Cloud technologies
+- 🌱 I’m currently learning AWS
+-  📫 How to reach me: gerdly@gmail.com
 - ⚡ Fun fact: I'm a foodie
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
