@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently working on exciting projects involving:  
+- 🌐 Web development  
+- ☁️ Cloud technologies
+- ⚡ Fun fact: I'm a foodie
+
 <!--
 **gerdly/gerdly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
